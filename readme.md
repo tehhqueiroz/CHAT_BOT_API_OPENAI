@@ -13,17 +13,24 @@ Arquitetura pronta para SaaS ou API
 
 🧱 Estrutura do projeto
 CHATBOT/
+
  ├── app.py
+ 
  ├── helpers.py
+ 
  ├── .env
+ 
  ├── dados/
  │    └── ecomart.txt
+ 
  ├── templates/
  │    └── index.html
+ 
  ├── static/
  │    ├── css/
  │    ├── js/
  │    └── img/
+ 
  └── venv/
 
 ⚙️ Requisitos
